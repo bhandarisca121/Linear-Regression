@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/bhandarisca121/house-price-prediction-eg.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = bhandarisca121
+	email = shreebhandarica@gmail.com
